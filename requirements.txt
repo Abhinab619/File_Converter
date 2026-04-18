@@ -5,3 +5,4 @@ langchain-core==0.2.38
 langchain-groq
 pydantic==2.12.5
 python-dotenv
+python-multipart
