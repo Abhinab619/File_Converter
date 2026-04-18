@@ -6,7 +6,7 @@ import os
 # ==============================
 # CONFIG
 # ==============================
-LIBREOFFICE_PATH = r"C:\Program Files\LibreOffice\program\soffice.exe"
+LIBREOFFICE_PATH = "soffice"
 
 # ==============================
 # FUNCTION
