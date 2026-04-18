@@ -7,9 +7,9 @@ load_dotenv()
 
 
 from langchain_groq import ChatGroq
-from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder
+from langchain.prompts import ChatPromptTemplate, MessagesPlaceholder
 from langchain.agents import create_tool_calling_agent, AgentExecutor
-from langchain_core.messages import SystemMessage
+from langchain.schema import SystemMessage
 import os
 
 
